@@ -1,0 +1,60 @@
+site_name: Multi-Robot Exploration
+theme:
+    name: material
+    logo: assets/img/logo.webp
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.sections
+        - navigation.path
+        - navigation.indexes
+        - toc.integrate
+        - search.suggest
+        - search.highlight
+        - content.tabs.link
+        - content.code.annotation
+        - content.code.copy
+    language: en
+    palette:
+        - scheme: default
+          toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to dark mode
+          primary: black
+          accent: purple
+        - scheme: slate
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
+          primary: black
+          accent: lime
+    font:
+        text: Roboto
+        code: Roboto Mono
+
+repo_url: https://github.com/trushant05/dasc_lab_exploration_isaac_sim
+
+plugins: 
+    - search
+
+edit_url: blob/master/docs
+
+nav:
+    - Home: index.md
+    - Installation: install.md
+
+markdown_extensions:
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+
+extra_css:
+    - assets/css/extra.css
+
+
+copyright: |
+    &copy; 2024 <a href="https://github.com/trushant05" target="_blank" rel="noopener">Trushant Adeshara</a>

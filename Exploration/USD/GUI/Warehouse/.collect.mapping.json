@@ -1,0 +1,611 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallDetails_D.png",
+            "source_hash": "ef44fadc561b3ecdee2d6670311101d13d592ddd",
+            "target_url": "./Materials/Textures/T_WallDetails_D.png",
+            "target_hash": "033de75185cae5fc1c520e1d0b80c6d95845907d"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallDetails_N.png",
+            "source_hash": "5c1aa783f6a4c71df8847385bf11fae3c8670644",
+            "target_url": "./Materials/Textures/T_WallDetails_N.png",
+            "target_hash": "938efd36894d5f2486c8168e879c254f08d69e4a"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallDetails_ORM.png",
+            "source_hash": "550f593d429295e8174161eaf254663c3b113e65",
+            "target_url": "./Materials/Textures/T_WallDetails_ORM.png",
+            "target_hash": "ba6c27adeb7bcef4903134c5ec512da173d6e6f1"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackShield_D.png",
+            "source_hash": "193852979f0cc99874b3cb0df0e17890e1ea8b0b",
+            "target_url": "./Materials/Textures/T_RackShield_D.png",
+            "target_hash": "87d057fbe47a22e9791cb2845e8fc7b405afd000"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackShield_N.png",
+            "source_hash": "fdd7ddaaf8ee0b1cca9ada24b32e97284d227069",
+            "target_url": "./Materials/Textures/T_RackShield_N.png",
+            "target_hash": "c93d36277ee2082a48f9f14fb76a55d4b61850ac"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackShield_ORM.png",
+            "source_hash": "43e5be64824217896b476e72a317fe6826962c0d",
+            "target_url": "./Materials/Textures/T_RackShield_ORM.png",
+            "target_hash": "1a7a2677b004c8ffec82c0d9b358a319c713be07"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BeamsA_D.png",
+            "source_hash": "9adfcd6b0afd1415a46c9777763caf072aa4820f",
+            "target_url": "./Materials/Textures/T_BeamsA_D.png",
+            "target_hash": "302bf98cd65a8c0d3c7d33375b1e2dae391a3205"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BeamsA_M.png",
+            "source_hash": "f6e0d2464b84c640d58890cb3149abd20a830266",
+            "target_url": "./Materials/Textures/T_BeamsA_M.png",
+            "target_hash": "3a52ed600ddbc24bf28e27eb886daff479332511"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BeamsA_N.png",
+            "source_hash": "02a821195cf1a43f090fafc5dd7b4308433f43b4",
+            "target_url": "./Materials/Textures/T_BeamsA_N.png",
+            "target_hash": "a7df52a8c5a0820b89f6dbe324491bfa73851a62"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BeamsA_ORM.png",
+            "source_hash": "e16100d94076ba7a32d957a4c5001603a1774117",
+            "target_url": "./Materials/Textures/T_BeamsA_ORM.png",
+            "target_hash": "4c7c8310beda094bf16180f772388f0589d3f7d1"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FrameA_D.png",
+            "source_hash": "3cfbb48f0a2fcbe65f64822daeed88a6d178dac1",
+            "target_url": "./Materials/Textures/T_FrameA_D.png",
+            "target_hash": "97dd6b519bc95a8e3a52d5ffffafba40b632796b"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FrameA_M.png",
+            "source_hash": "04e0c0033323ebae0a14ed2fbeed4ed5ff312c9a",
+            "target_url": "./Materials/Textures/T_FrameA_M.png",
+            "target_hash": "ff3e144b8be77552367b7d0c0797dd18f650543e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FrameA_N.png",
+            "source_hash": "fe4530b277257131ab2d6e0417a69c7e0106da14",
+            "target_url": "./Materials/Textures/T_FrameA_N.png",
+            "target_hash": "71d566015b46f6c0b39f30761634d37d9ecab3ec"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FrameA_ORM.png",
+            "source_hash": "c4e55689f6104fc82b58e775cc545011e3867b9d",
+            "target_url": "./Materials/Textures/T_FrameA_ORM.png",
+            "target_hash": "6c0b72fe99fd6f8e99573a68c8d6964e47524783"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FloorStripes_D.png",
+            "source_hash": "dc7f125614fb3e0ded06010c7b779de859825df5",
+            "target_url": "./Materials/Textures/T_FloorStripes_D.png",
+            "target_hash": "e658d7620762319972a653347490391a8c80199c"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FloorStripes_M.png",
+            "source_hash": "425e9619d223bce982cf87d1612e92bd4071d86d",
+            "target_url": "./Materials/Textures/T_FloorStripes_M.png",
+            "target_hash": "fd8a83cc014303bff22aebf03f165d25536fa638"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FloorStripes_N.png",
+            "source_hash": "23de1823e5870b63059abf67b9764b167899c222",
+            "target_url": "./Materials/Textures/T_FloorStripes_N.png",
+            "target_hash": "f42624c96eca62526bc3d1f2200b7896d62be6cb"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FloorStripes_ORM.png",
+            "source_hash": "dc0252346fe3eefc0d35b0eeafaaaaee23c7ceaa",
+            "target_url": "./Materials/Textures/T_FloorStripes_ORM.png",
+            "target_hash": "cb4c2b823ee57c5c34d6ff2a6997006bccafad7e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_Floor_01_N.png",
+            "source_hash": "50f84253597fe84e65e7b0fb2eefb937c629740d",
+            "target_url": "./Materials/Textures/T_Floor_01_N.png",
+            "target_hash": "b96d5177fef819ac3b22c7b4ea006870affa62c8"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_SignsC_D.png",
+            "source_hash": "1dd00477d701edb8de9902d7a9f234e36abaa92c",
+            "target_url": "./Materials/Textures/T_SignsC_D.png",
+            "target_hash": "eb39a64b5cbd9e6799050c8fb4f93e34c0cc637e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_SignsC_ORM.png",
+            "source_hash": "d8fde41b40eec3fcb3aac3ae2b1c5bd7aedc485c",
+            "target_url": "./Materials/Textures/T_SignsC_ORM.png",
+            "target_hash": "3fc13b964b7b0c279b087b171e4bd54de08fdf67"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BlankMask_M.png",
+            "source_hash": "7dec49def2a19754c5cb1b121ceaef4f2daebd0f",
+            "target_url": "./Materials/Textures/T_BlankMask_M.png",
+            "target_hash": "d0c60fc916c3b987b2da2e92317f207ec3292cd6"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_02_D.png",
+            "source_hash": "2912ddf6f362bff723e3c911b8edf362cedf0fa6",
+            "target_url": "./Materials/Textures/T_WallA_02_D.png",
+            "target_hash": "2284e5889da65f9f760a050a465e252f18527c0e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_02_N.png",
+            "source_hash": "4ccfa1ffed6634baa0787da1f096344465650475",
+            "target_url": "./Materials/Textures/T_WallA_02_N.png",
+            "target_hash": "3e1247600e539ffb9b31cfced9b7571bbde285c6"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_02_ORM.png",
+            "source_hash": "9fc2b543d30928e867b061b95bfcc831ad817ad1",
+            "target_url": "./Materials/Textures/T_WallA_02_ORM.png",
+            "target_hash": "2a8edd9824b68eab08b8f365e42036489baa9678"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PaletteA_01_D.png",
+            "source_hash": "ff3de55862b2d3b3a57ff2922cb1c5edcbff530e",
+            "target_url": "./Materials/Textures/T_PaletteA_01_D.png",
+            "target_hash": "c137ef9fb82b730c7e14410012109256398fc1d2"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PaletteA_01_M.png",
+            "source_hash": "ec26174712bff03037968b14bf268a309694bc89",
+            "target_url": "./Materials/Textures/T_PaletteA_01_M.png",
+            "target_hash": "5d19a57974186f0bb022281697e94332ae370b8c"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PaletteA_01_N.png",
+            "source_hash": "db26e2d5d2b84106cdd0b39b7a368ea54692e9bf",
+            "target_url": "./Materials/Textures/T_PaletteA_01_N.png",
+            "target_hash": "93d6c308d0457b35666c22ab24ef817ea77d6bfe"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PaletteA_01_ORM.png",
+            "source_hash": "ef07fa335740d448f9c5c05b9a0608a52c6b5d86",
+            "target_url": "./Materials/Textures/T_PaletteA_01_ORM.png",
+            "target_hash": "c59f48df74e9969a3dfbe271071507b8c6a28ee4"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_01_D.png",
+            "source_hash": "8c9b8a380e8d891c1c888756452b72a4057a739b",
+            "target_url": "./Materials/Textures/T_RackSetA_01_D.png",
+            "target_hash": "3dd106e0bc3a15477963d34629b6e5064d472880"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_01_M.png",
+            "source_hash": "b4f31871a2ac3754fa6a014a97121560ee5bda22",
+            "target_url": "./Materials/Textures/T_RackSetA_01_M.png",
+            "target_hash": "d70ea05d09fc78a7726071d4c0d4f33280344ce0"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_01_N.png",
+            "source_hash": "a17796673ac6403ee12a079fa74780d955345e05",
+            "target_url": "./Materials/Textures/T_RackSetA_01_N.png",
+            "target_hash": "597506abe0fe8d0ffd7520a08b4f5c935864e124"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_01_ORM.png",
+            "source_hash": "fadd54d1641728fc0605c5be3abed884454e8b97",
+            "target_url": "./Materials/Textures/T_RackSetA_01_ORM.png",
+            "target_hash": "a6e3a0f9784235d7d459b27db59f88852ca4cc9c"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_03_D.png",
+            "source_hash": "05c088f52ffc892bfbebfce44c4e4d2fe074c0db",
+            "target_url": "./Materials/Textures/T_RackSetA_03_D.png",
+            "target_hash": "334f46118618baa17cf6a34cc427e8637de1d452"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_03_M.png",
+            "source_hash": "8d87b8eae053ea434d58a7ce0b0fb33abf5d7f58",
+            "target_url": "./Materials/Textures/T_RackSetA_03_M.png",
+            "target_hash": "ec589b943eb78cd3deb6b77889dc769704b7052a"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_03_N.png",
+            "source_hash": "790cf37f0ff06d2e609c8f40e6571613f258ee4c",
+            "target_url": "./Materials/Textures/T_RackSetA_03_N.png",
+            "target_hash": "a173bd8afa0325a6b17b824c20f022531d55deeb"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_03_ORM.png",
+            "source_hash": "41d82f6d53e5c06a4bce19582cb3fb2c3334f6d6",
+            "target_url": "./Materials/Textures/T_RackSetA_03_ORM.png",
+            "target_hash": "a94d018b55fe8a8471d2bf64743ba4b35d259c64"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_04_D.png",
+            "source_hash": "ae41556e2e517d01124b292103a25d3bf115b859",
+            "target_url": "./Materials/Textures/T_RackSetA_04_D.png",
+            "target_hash": "3dcbca8c0ea4292dfa0a3749faaa5c447539ad48"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_04_M.png",
+            "source_hash": "1fe3bd3f933170ff43aff0953ffec4e0afb8fe3d",
+            "target_url": "./Materials/Textures/T_RackSetA_04_M.png",
+            "target_hash": "32565b0867391717fb7ed61877653c2f36883dcd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_04_N.png",
+            "source_hash": "ce80d4df42877b4fd9aebe69ed2f4570e8c10739",
+            "target_url": "./Materials/Textures/T_RackSetA_04_N.png",
+            "target_hash": "1b4df5367b37cddcc8a1980de6f87aea633bf42b"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_04_ORM.png",
+            "source_hash": "72a2ccd6323c9cd3c964c9014b8eaf3fd920fb0b",
+            "target_url": "./Materials/Textures/T_RackSetA_04_ORM.png",
+            "target_hash": "74dd01f1bcb6f75ed837dbfd353f59376b949667"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_Floor_01_D.png",
+            "source_hash": "31ab5a38bb4e2655a6bba96442485644b2645c18",
+            "target_url": "./Materials/Textures/T_Floor_01_D.png",
+            "target_hash": "a38fd68d9db849b6e23c681a54f9325ed41ad72a"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_Floor_01_M.png",
+            "source_hash": "acb3a79402ae45066263301d802f26ffa853cc15",
+            "target_url": "./Materials/Textures/T_Floor_01_M.png",
+            "target_hash": "b15f68a1dee5950150a5976f57e47648c93a8d5e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_Floor_01_ORM.png",
+            "source_hash": "cc31955ec01b2bb423873161830743e92be0c14f",
+            "target_url": "./Materials/Textures/T_Floor_01_ORM.png",
+            "target_hash": "d27d1f5ab03445c770c5126bbf4d646b12187839"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_LampCeilingA_D.png",
+            "source_hash": "394636be7631e8d9796f35d434c471593952736f",
+            "target_url": "./Materials/Textures/T_LampCeilingA_D.png",
+            "target_hash": "e6d7b898613126319caa18d16b5b6a182a6db723"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_LampCeilingA_N.png",
+            "source_hash": "5cb33bf76f2c84e3263de6287d13bd5a000b5cab",
+            "target_url": "./Materials/Textures/T_LampCeilingA_N.png",
+            "target_hash": "d46092e15a4e9ee90e0b5b1251b462e77b0c6620"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_LampCeilingA_ORM.png",
+            "source_hash": "76b2e57a1eb44b536ba1f160c8eb85c1b62d3199",
+            "target_url": "./Materials/Textures/T_LampCeilingA_ORM.png",
+            "target_hash": "d07ce8bff31c8622f6b9c92fffeda48c54989a28"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/0001.png",
+            "source_hash": "35a678aef66093625568fc4494a48e9faa48c6ee",
+            "target_url": "./Materials/Textures/0001.png",
+            "target_hash": "d7e9fe11b684f660cb24217edde99be72597937d"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CeilingA_D.png",
+            "source_hash": "340cd11fce3598859faf1a4064bd3ad281ccf7eb",
+            "target_url": "./Materials/Textures/T_CeilingA_D.png",
+            "target_hash": "7edeac5769e1784526c98f573d5d5b11121050de"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CeilingA_M.png",
+            "source_hash": "fc8dfaf20a96b82c400cb88a7b032ebf239c2230",
+            "target_url": "./Materials/Textures/T_CeilingA_M.png",
+            "target_hash": "664247df4101f08ef535a0e6c0f8213ffb0b4252"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CeilingA_N.png",
+            "source_hash": "446303edc5759c39775621fff3cc3281d25da97a",
+            "target_url": "./Materials/Textures/T_CeilingA_N.png",
+            "target_hash": "4f08a6f6d48ffe10af63341ef52ee02f1ebbd2dc"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CeilingA_ORM.png",
+            "source_hash": "ac5ce91566a953182437760799ec9910ad790177",
+            "target_url": "./Materials/Textures/T_CeilingA_ORM.png",
+            "target_hash": "392aa9912b3f8b008cbc6eadd7da1f2777d6b6d9"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CardBoxA_D.png",
+            "source_hash": "aa37ab6e5e3439e8ccb8f9a5e42c36adc16745f1",
+            "target_url": "./Materials/Textures/T_CardBoxA_D.png",
+            "target_hash": "242cc0707d3bdbffd9605a3ef861380621acbbff"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CardBoxA_N.png",
+            "source_hash": "6d9a5df44a8105f2959053e2ca8f23d215d64ede",
+            "target_url": "./Materials/Textures/T_CardBoxA_N.png",
+            "target_hash": "657a81707d015cc7b0e46e57ef44fd985d12ed5a"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_CardBoxA_ORM.png",
+            "source_hash": "5b0f36dd0473c612339ffc2cf8bf1439d17e389b",
+            "target_url": "./Materials/Textures/T_CardBoxA_ORM.png",
+            "target_hash": "ad242960f4f9454e25a785ae97e2799928d69bd3"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_LampCeilingA.mdl",
+            "source_hash": "7b73e9841f92948880064038c40e6a74cfea79ac",
+            "target_url": "./Materials/MI_LampCeilingA.mdl",
+            "target_hash": "f497ba3104a91836423177686e18afe6ffcacd11"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_02_D.png",
+            "source_hash": "8ce3b877ec68b7630c4a535cafca9f172d652f4d",
+            "target_url": "./Materials/Textures/T_RackSetA_02_D.png",
+            "target_hash": "824996aca7cd393bf48e38e433f3b12377f1e2cd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_02_M.png",
+            "source_hash": "fbcc07c1627958de50c09d7a182779157a0e7231",
+            "target_url": "./Materials/Textures/T_RackSetA_02_M.png",
+            "target_hash": "b241e22b1a86da790c240c9581279c4d2d1ffc6e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_02_N.png",
+            "source_hash": "adc38efdca2a6054e6dda10f9b18ed88294f64fb",
+            "target_url": "./Materials/Textures/T_RackSetA_02_N.png",
+            "target_hash": "7dd3ed2404f764d6e5142dadbd087e9158f80923"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_RackSetA_02_ORM.png",
+            "source_hash": "a0f4dfcefb65b5ff8dfad956ad029662e7e991eb",
+            "target_url": "./Materials/Textures/T_RackSetA_02_ORM.png",
+            "target_hash": "63a32c858eb9988458310c2dffa79f3a261cdd1c"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_RackShield_01.mdl",
+            "source_hash": "4bdf36b2a1879a48713311c104507362b2d5679d",
+            "target_url": "./Materials/MI_RackShield_01.mdl",
+            "target_hash": "444709e72d821968f34cb9071a723ab0643aaa11"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_SignB.mdl",
+            "source_hash": "6e33ff988ee6544b7b066887cd6d513022b0ba17",
+            "target_url": "./Materials/MI_SignB.mdl",
+            "target_hash": "0c02195049adce7594dc2514b851cbb4e750e412"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_CeilingA_06b.mdl",
+            "source_hash": "ba1ac339ade1ff1b4ce0fda1a216e354a45bf85a",
+            "target_url": "./Materials/MI_CeilingA_06b.mdl",
+            "target_hash": "470e2780eeb8c713db46afbc5c67cc5be2de4d9a"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_FrameA_01.mdl",
+            "source_hash": "0250d8e9482fbc46d9d49668f449a8bcc3e9be05",
+            "target_url": "./Materials/MI_FrameA_01.mdl",
+            "target_hash": "b7af6d6fc05b07b507fe2029a52f3f402ccc598e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/M_WallBoard_01.mdl",
+            "source_hash": "b0fd1f928397eb55228d853a2ed7eb9d7e255ed2",
+            "target_url": "./Materials/M_WallBoard_01.mdl",
+            "target_hash": "e2b766be82176373aa4f2abab0a9ddd20a78d347"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_WallB_01.mdl",
+            "source_hash": "fac87e7e387bda1bcc123d5e1d4b5724d645ced2",
+            "target_url": "./Materials/MI_WallB_01.mdl",
+            "target_hash": "ce394a559d2115ea23bb2834ad3bde74c5f762ca"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_Floor_01.mdl",
+            "source_hash": "c8a36c5cfbbae40ea29e224b8a4b2f5b5b3438f3",
+            "target_url": "./Materials/MI_Floor_01.mdl",
+            "target_hash": "b5dc13762e44c0b286e05d44df60957a6120debd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/M_Glow.mdl",
+            "source_hash": "f0495e18530fb8cba152b6d9541ddc122a81875a",
+            "target_url": "./Materials/M_Glow.mdl",
+            "target_hash": "d5549e6b55bfe22e7ba8c1f9b93e1c81f4ef388d"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_Barcode_0001.mdl",
+            "source_hash": "c7510811c279b92838d62d7677bdeb59aa191339",
+            "target_url": "./Materials/MI_Barcode_0001.mdl",
+            "target_hash": "6181803a4770817a626ea493584be442c5fbb377"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_SignsB_D.png",
+            "source_hash": "83ede0814cac293d7a561603a6838478e28cbc84",
+            "target_url": "./Materials/Textures/T_SignsB_D.png",
+            "target_hash": "10b16309b8d6a5dd8e10791b7eaa916da2cf6768"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_01_D.png",
+            "source_hash": "3117cfa79ffbe71212f4970224a24e9a11ba8cbd",
+            "target_url": "./Materials/Textures/T_WallA_01_D.png",
+            "target_hash": "b421ff30e36b10fa2a4080d31054231aae27817d"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_01_N.png",
+            "source_hash": "21c6021369c94584bce9d162a29e6e06b475f5ff",
+            "target_url": "./Materials/Textures/T_WallA_01_N.png",
+            "target_hash": "98a87efbd506a97f64d74df9112b5ca5f347f887"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallA_01_ORM.png",
+            "source_hash": "16f1e662732a303c92979d6b713d34ab68a7fbc0",
+            "target_url": "./Materials/Textures/T_WallA_01_ORM.png",
+            "target_hash": "0abedbb121fdc860338868677d097b312851a8ab"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PushcartA_D.png",
+            "source_hash": "135f5d8237d21a0854daa79f57af5c52a22f1892",
+            "target_url": "./Materials/Textures/T_PushcartA_D.png",
+            "target_hash": "9f1324c9eb5bec5ca26ec7467fdf5fe10bc2e207"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PushcartA_M.png",
+            "source_hash": "aa88f36ef36f503a29e5049ca4b4f9b3621de7b6",
+            "target_url": "./Materials/Textures/T_PushcartA_M.png",
+            "target_hash": "f0bb7f6b2e1c9047306d5670967e93f521e63a35"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PushcartA_N.png",
+            "source_hash": "1c00b7968882f20e40910b15315aafa45e2be88a",
+            "target_url": "./Materials/Textures/T_PushcartA_N.png",
+            "target_hash": "4aef1b3bdc75a760619ffcbfe87cef505a073905"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_PushcartA_ORM.png",
+            "source_hash": "f95e0eadc97490ebb98c69522aaba425b3bf61ac",
+            "target_url": "./Materials/Textures/T_PushcartA_ORM.png",
+            "target_hash": "4214474bff3f2c91c2229f1cbd2973113b0d8cfd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/M_AisleSign.mdl",
+            "source_hash": "28fdedc610c56f8069b060b1f5c2e69ad9a0cf51",
+            "target_url": "./Materials/M_AisleSign.mdl",
+            "target_hash": "bec09a405869149a252dc02f9949e4a5a8bf297f"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/MI_PushcartA_01.mdl",
+            "source_hash": "e3a1e9b02241cb34b41ba4f1c82fd07e25d314fd",
+            "target_url": "./Materials/MI_PushcartA_01.mdl",
+            "target_hash": "2b6d2f11f78a18d238ee5f4a477e208f9e3bf1ee"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/OmniUe4Function.mdl",
+            "source_hash": "7a0854d8d1bd352d33f729fe5d58a804857d4b8f",
+            "target_url": "./Materials/OmniUe4Function.mdl",
+            "target_hash": "f69fa8caba3b45be51b33217b625770a747c8da0"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/OmniUe4Base.mdl",
+            "source_hash": "961287d0bb7f3ab816d9160b1c8bdae4bc0b6385",
+            "target_url": "./Materials/OmniUe4Base.mdl",
+            "target_hash": "b4667ff81bf2049c0cf4d2278c2f0faa4143c781"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_SignsA_D.png",
+            "source_hash": "cbc3e25c59e5bb8e750f31ec7e52da4a1431342d",
+            "target_url": "./Materials/Textures/T_SignsA_D.png",
+            "target_hash": "e350d65db1fe706c18f11e0657576e373c20df86"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/Alum_Anodized_roughness.png",
+            "source_hash": "1267075f78b3c275fef866dab739f7ff64d76a68",
+            "target_url": "./Materials/Textures/Alum_Anodized_roughness.png",
+            "target_hash": "bb1dddb3a96633f58a100d67328a6a04f78b8fc1"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallBoard_01_N.png",
+            "source_hash": "f5d0e0b1da852140877c8f0cfb78303ba2d58077",
+            "target_url": "./Materials/Textures/T_WallBoard_01_N.png",
+            "target_hash": "a0e51b5bce45532be6decc7780e4c21d544ca26d"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallBoard_01_D.png",
+            "source_hash": "a201c77ef4b6c01ce6c35f9141ef2deea140770b",
+            "target_url": "./Materials/Textures/T_WallBoard_01_D.png",
+            "target_hash": "20d3e8e750ac37314c509871f3584a2d3b152865"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallBoard_01_ORM.png",
+            "source_hash": "a989659582b45a2b6001b387aa6ddd7bb6a3e633",
+            "target_url": "./Materials/Textures/T_WallBoard_01_ORM.png",
+            "target_hash": "7b2239681dd96c5ab79340929ec4afef7fe79681"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_WallBoard_01_M.png",
+            "source_hash": "0d5b64fc360736cbada09b1c999ecce82b5ac554",
+            "target_url": "./Materials/Textures/T_WallBoard_01_M.png",
+            "target_hash": "27d430c0ade518f2b835820c4f48938738c9005e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Props/KLT_Bin/Materials/Textures/FOF_Map_Labels_D.png",
+            "source_hash": "b3043e2338edef614ace46e14b9f68eafa2a9dfa",
+            "target_url": "./Props/KLT_Bin/Materials/Textures/FOF_Map_Labels_D.png",
+            "target_hash": "59423d0bdc895a52fd1eeafa6fd4047faf0d72b1"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Props/KLT_Bin/Materials/Textures/FOF_Map_Magenta_Box_D.png",
+            "source_hash": "af9fb5a538379f4d4923db01c7fac5ee1cd12b2e",
+            "target_url": "./Props/KLT_Bin/Materials/Textures/FOF_Map_Magenta_Box_D.png",
+            "target_hash": "457b5fcf99efb49fff02209803002186e2a05c89"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Props/KLT_Bin/Materials/Textures/FOF_Mesh_Labels_D.png",
+            "source_hash": "5119b8bf0885c82629304e43668a64336479441c",
+            "target_url": "./Props/KLT_Bin/Materials/Textures/FOF_Mesh_Labels_D.png",
+            "target_hash": "fe499b7a7b8f2e433f4481f843ccc5b519946864"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FireExtinguisher_D.png",
+            "source_hash": "02b4b2d8dc075c2d068e4159b97cea7b410d5604",
+            "target_url": "./Materials/Textures/T_FireExtinguisher_D.png",
+            "target_hash": "3466a4e4ed1e9bec426214485df14a396d9dcb56"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FireExtinguisher_N.png",
+            "source_hash": "5407cd900395efe5887aaadbfdd8cbc3ffa04d33",
+            "target_url": "./Materials/Textures/T_FireExtinguisher_N.png",
+            "target_hash": "31b43a4973555a55624ab903ab24374e33ef53d2"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_FireExtinguisher_ORM.png",
+            "source_hash": "3269dee3bcd0442f35e6017be9b9fee02b921864",
+            "target_url": "./Materials/Textures/T_FireExtinguisher_ORM.png",
+            "target_hash": "0ff13cf45387cb80746372a6051693365228c86e"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BarelPlasticA_N.png",
+            "source_hash": "f28554a38eacbf425ff5722577db02d087640be8",
+            "target_url": "./Materials/Textures/T_BarelPlasticA_N.png",
+            "target_hash": "2a628c7295d850c78fcbc235147116993d9d25be"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BarelPlasticA_M.png",
+            "source_hash": "acdbddd0a2de76fe135a0ec5bd00bb0390d720e7",
+            "target_url": "./Materials/Textures/T_BarelPlasticA_M.png",
+            "target_hash": "2eddf099400bcd6f5bd7937a3472db0c52b464fd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/AisleSign_Text_01.png",
+            "source_hash": "b00291d4194af306200e94509cb68f00e04d2199",
+            "target_url": "./Materials/Textures/AisleSign_Text_01.png",
+            "target_hash": "c6d048163142cdd9f4fa7b4dc71a6dda8a671703"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BarelPlasticA_D.png",
+            "source_hash": "fcf13dc831730867b916c4cb2e1314bf4bdb7e0f",
+            "target_url": "./Materials/Textures/T_BarelPlasticA_D.png",
+            "target_hash": "e9a44778df311eafdfa5deec6d483024b21fa0f1"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_AisleSign_N.png",
+            "source_hash": "2ea88cf84df87211cf3ee84f1983ffcd699003e8",
+            "target_url": "./Materials/Textures/T_AisleSign_N.png",
+            "target_hash": "fc4e06963103b129b3d1ca4aa750b4f879702a79"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_BarelPlasticA_ORM.png",
+            "source_hash": "f5192a0cff5839c604e69692eed5700034bd26c4",
+            "target_url": "./Materials/Textures/T_BarelPlasticA_ORM.png",
+            "target_hash": "f25362f1d9c73aea0731fcf3efe9a92f34871522"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_AisleSign_D.png",
+            "source_hash": "acbf0b4c769b8dbecf898f2f4ce4c16cc0a91850",
+            "target_url": "./Materials/Textures/T_AisleSign_D.png",
+            "target_hash": "9277c17a84cd4b4995139ea43203cc6ea1ae91dd"
+        },
+        {
+            "source_url": "/home/taekyung/Isaac/github_repo/dasc_lab_exploration_isaac_sim/Exploration/USD/Environments/Warehouse/Materials/Textures/T_AisleSign_ORM.png",
+            "source_hash": "c7a6e12695d94b49fa773db984bf5a3af108f97e",
+            "target_url": "./Materials/Textures/T_AisleSign_ORM.png",
+            "target_hash": "7c3ee762133717e86de898e6266fc28bfcf9a82a"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+.centered-image {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    width: 800px; /* Desired width */
+}
+
+.justified-content {
+    text-align: justify;
+}
