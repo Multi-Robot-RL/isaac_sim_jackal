@@ -1,0 +1,39 @@
+services:
+  isaac_sim:
+    image: nvcr.io/nvidia/isaac-sim:4.1.0  # Docker Image
+      #container_name: isaac_sim  # Container Name
+    runtime: nvidia  # Use NVIDIA runtime for GPU access
+    entrypoint: ["/bin/bash"]
+ 
+    command: ["-c", "./runheadless.native.sh"]
+
+    volumes:
+      - ~/docker/isaac-sim/cache/kit:/isaac-sim/kit/cache:rw
+      - ~/docker/isaac-sim/cache/ov:/root/.cache/ov:rw
+      - ~/docker/isaac-sim/cache/pip:/root/.cache/pip:rw
+      - ~/docker/isaac-sim/cache/glcache:/root/.cache/nvidia/GLCache:rw
+      - ~/docker/isaac-sim/cache/computecache:/root/.nv/ComputeCache:rw
+      - ~/docker/isaac-sim/logs:/root/.nvidia-omniverse/logs:rw
+      - ~/docker/isaac-sim/data:/root/.local/share/ov/data:rw
+      - ~/docker/isaac-sim/documents:/root/Documents:rw
+      - $PWD/ros2_bridge:/isaac-sim/ros2_bridge:rw
+      - $PWD/../Exploration:/isaac-sim/workspace/Exploration:rw
+    environment:
+      - LOG_LEVEL=DEBUG
+      - ACCEPT_EULA=Y
+      - PRIVACY_CONSENT=Y
+      - PRIVACY_USERID=trushant@umich.edu  
+      - RMW_IMPLEMENTATION=rmw_fastrtps_cpp
+      - LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/isaac-sim/exts/omni.isaac.ros2_bridge/humble/lib
+      - FASTRTPS_DEFAULT_PROFILES_FILE=/isaac-sim/ros2_bridge/fastdds.xml
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu] 
+    network_mode: host
+    restart: "no"  # No automatic restarts
+    stdin_open: false # Keep stdin open (interactive mode)
+    tty: true  # Enable TTY for interactive terminal
+
+
